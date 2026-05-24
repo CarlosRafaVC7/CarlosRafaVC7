@@ -24,7 +24,7 @@ Construyo aplicaciones web completas: desde la API hasta la interfaz. Me enfoco 
 
 ---
 
-## Proyectos
+## Proyectos Principales
 
 ### [Sistema Web PPP](https://github.com/CarlosRafaVC7/proyecto-ppp)
 Sistema de gestión de prácticas preprofesionales para la Escuela de Ingeniería de Sistemas. Full stack con análisis de requerimientos bajo metodología RUP, seguridad con JWT y BCrypt, y despliegue contenerizado con Docker.
