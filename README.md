@@ -1,82 +1,68 @@
-# Carlos Rafael Veli Capcha
+<div align="center">
 
-**Estudiante de Ingeniería de Sistemas · 7mo ciclo · Full Stack Developer**
+# Hola, soy Carlos Rafael 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--rafael--vc-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/carlos-rafael-vc-a155b3333)
-[![Email](https://img.shields.io/badge/Email-carlosveli77@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosveli77@gmail.com)
+**Full Stack Developer · Ingeniería de Sistemas, 7mo ciclo · Lima, Perú**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--rafael--vc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-rafael-vc-a155b3333)
+[![Email](https://img.shields.io/badge/Email-carlosveli77@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosveli77@gmail.com)
+![Status](https://img.shields.io/badge/status-disponible-1D9E75?style=flat-square)
+
+</div>
 
 ---
 
-## Sobre mí
-
-Soy desarrollador full stack con enfoque en aplicaciones web y móviles. Tengo experiencia construyendo sistemas completos: desde el diseño de base de datos y APIs REST hasta interfaces de usuario con Angular y React. Me interesa el desarrollo backend, la arquitectura de software y seguir creciendo en tecnologías cloud.
-
-Actualmente en 7mo ciclo de Ingeniería de Sistemas en la Universidad Peruana Unión, Lima.
+Construyo aplicaciones web completas: desde la API hasta la interfaz. Me enfoco en código limpio, arquitectura escalable y productos que funcionan de verdad.
 
 ---
 
 ## Stack principal
 
-**Backend**
-`Java` `Spring Boot` `REST APIs` `JWT` `BCrypt`
-
-**Frontend**
-`Angular` `React` `Flutter` `Tailwind CSS`
-
-**Bases de datos**
-`MySQL` `Oracle`
-
-**DevOps & Herramientas**
-`Docker` `Git` `GitHub` `Postman` `Ansible`
-
-**Redes & Infraestructura**
-`VMware ESXi` `VirtualBox` `GNS3` `IPv4/IPv6` `VLAN`
+| Backend | Frontend | Bases de datos | DevOps |
+|---|---|---|---|
+| Java · Spring Boot · REST APIs · JWT | Angular · React · Flutter · Tailwind CSS | MySQL · Oracle · JPA | Docker · Git · Postman · Ansible |
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
-### [Sistema Web PPP + Migración a Microservicios](https://github.com/CarlosRafaVC7/proyecto-ppp)
-Sistema de gestión de prácticas preprofesionales para la Escuela de Ingeniería de Sistemas. Desarrollado con Spring Boot, Angular y Oracle bajo metodología RUP. Posteriormente migrado de arquitectura monolítica a microservicios contenerizados con Docker.
+### [Sistema Web PPP](https://github.com/CarlosRafaVC7/proyecto-ppp)
+Sistema de gestión de prácticas preprofesionales para la Escuela de Ingeniería de Sistemas. Full stack con análisis de requerimientos bajo metodología RUP, seguridad con JWT y BCrypt, y despliegue contenerizado con Docker.
 
 `Spring Boot` `Angular` `Oracle` `Docker` `JWT` `RUP`
 
 ---
 
-### [LivUp – App de Gestión de Residencias](https://github.com/CarlosRafaVC7/app-movil-LivUP)
-Aplicación móvil para la gestión de residencias e inquilinos. Cubre cuartos, contratos, pagos y deudas, con roles diferenciados para propietario y cliente.
+### [LivUp — Gestión de Residencias](https://github.com/CarlosRafaVC7/app-movil-LivUP)
+App móvil para propietarios e inquilinos. Cubre gestión de cuartos, contratos, pagos y deudas, con roles diferenciados y backend REST independiente.
 
 `Flutter` `Spring Boot` `MySQL`
 
 ---
 
 ### [Sistema de Inventario DICSAR](https://github.com/CarlosRafaVC7/Dicsar-Frontend)
-Sistema full stack de gestión de inventario, clientes y proveedores desarrollado bajo Scrum y estándares ISO 12207.
+Sistema full stack de gestión de inventario, clientes y proveedores para DICSAR S.A.C. Desarrollado en equipo bajo Scrum con estándares ISO 12207.
 
-`Angular` `Spring Boot` `JWT` `Scrum`
-
----
-
-### [Microservicios – Módulo de Ventas](https://github.com/CarlosRafaVC7/MicroserviciosVenta)
-Arquitectura de microservicios para módulo de ventas, con comunicación entre servicios mediante APIs REST y contenerización con Docker.
-
-`Java` `Spring Boot` `Docker` `REST APIs`
+`Angular` `Spring Boot` `JWT` `Scrum` `ISO 12207`
 
 ---
 
 ## Experiencia
 
-**Practicante de Desarrollo – FHYONA Software Comercial (Cudesi S.A.C)**
-`Jul 2025 – Dic 2025`
-Desarrollo de componentes frontend con React y Tailwind CSS en equipo colaborativo, usando Git y GitHub para control de versiones.
+**Practicante de Desarrollo — FHYONA Software Comercial** `Jul – Dic 2025`
+Desarrollo de componentes frontend con React y Tailwind CSS. Control de versiones con Git en equipo colaborativo.
 
 ---
 
 ## Formación
 
-🎓 **Ingeniería de Sistemas** – Universidad Peruana Unión (2022 – presente)
-📚 Programación – Platzi · Python Fundamentals – Santander Academy
+🎓 **Ingeniería de Sistemas** — Universidad Peruana Unión (2022 – presente)
+📚 Programación · Platzi &nbsp;|&nbsp; Python Fundamentals · Santander Academy
 
 ---
 
-📍 Lima, Perú · Inglés B1
+<div align="center">
+
+⭐ Si algo te sirve, deja una estrella. Siempre abierto a colaborar.
+
+</div>
