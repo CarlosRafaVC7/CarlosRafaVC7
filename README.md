@@ -1,61 +1,53 @@
 # Carlos Rafael Veli Cordova
 
-> *Estudiante de Ingeniería de Sistemas | Full Stack Developer | Microservices Enthusiast*
+**`Ingeniería de Sistemas · 7mo ciclo · Full Stack Developer`**
 
-[![GitHub](https://img.shields.io/badge/GitHub-CarlosRafaVC7-181717?style=for-the-badge&logo=github)](https://github.com/CarlosRafaVC7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--rafael--vc--a155b3333-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carlos-rafael-vc-a155b3333)
-[![Gmail](https://img.shields.io/badge/carlosveli77@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:carlosveli77@gmail.com)
-
----
-
-## Sobre mí
-
-Estudiante de 7mo ciclo de Ingeniería de Sistemas. Me gusta desarrollar software completo, desde la idea hasta el despliegue. He trabajado en proyectos full stack, apps móviles y migraciones a microservicios. Siempre aprendiendo algo nuevo.
+[![GitHub](https://img.shields.io/badge/GitHub-CarlosRafaVC7-181717?style=flat-square&logo=github)](https://github.com/CarlosRafaVC7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--rafael--vc--a155b3333-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/carlos-rafael-vc-a155b3333)
 
 ---
 
-## Tecnologías
+## 🎯 Sobre mí
 
-**Backend:** Java, Spring Boot, JPA, REST APIs, JWT  
-**Frontend:** Angular, React, Flutter, TailwindCSS  
-**Bases de datos:** MySQL, Oracle  
-**Herramientas:** Docker, Git, Postman, Ansible  
+Construyo software. Aplicaciones web, apps móviles, sistemas completos — desde la base de datos hasta lo que el usuario toca. Me gusta que las cosas funcionen, el código limpio y los proyectos bien terminados.
 
 ---
 
-## Proyectos destacados
+## 🧰 Tecnologías
 
-- **Sistema Web PPP** – Migración de monolito a microservicios con Docker. Sistema más escalable y mantenible.
-
-- **LivUp App** – Aplicación móvil para gestión de residencias. Roles, pagos, contratos, cuartos. Flutter + Spring Boot + MySQL.
-
-- **Sistema de Inventario DICSAR** – Full stack con Spring Boot, Angular y JWT. Gestión con Scrum e ISO 12207.
-
-- **Otros proyectos** – Revisa mi GitHub para ver más (redes, virtualización, apps colaborativas).
+`Java` · `Spring Boot` · `Angular` · `React` · `Flutter` · `MySQL` · `Oracle` · `Docker` · `Git` · `REST APIs` · `JWT`
 
 ---
 
-## Experiencia
+## 📌 Proyectos destacados
 
-**Practicante de Desarrollo** – FHYONA Software Comercial  
-*React, TailwindCSS, Git, trabajo en equipo*
+| Proyecto | Descripción |
+|----------|-------------|
+| **Sistema Web PPP** | Migración de monolito a microservicios con Docker. Arquitectura escalable y mantenible. |
+| **LivUp App** | App móvil para gestión de residencias. Flutter + Spring Boot + MySQL. Cuartos, contratos, pagos. |
+| **Sistema de Inventario DICSAR** | Full stack con Spring Boot + Angular + JWT. Gestión bajo metodología Scrum. |
 
 ---
 
-## Educación
+## 💼 Experiencia
 
-**Ingeniería de Sistemas** – Universidad Peruana Unión (2022 - presente)
+**Practicante de Desarrollo – FHYONA Software Comercial**  
+`React` · `TailwindCSS` · `Git` · `Trabajo colaborativo`
+
+---
+
+## 🎓 Formación
+
+**Ingeniería de Sistemas** – Universidad Peruana Unión (2022 - actual)
 
 **Cursos:** Programación (Platzi) · Python Fundamentals (Santander Academy)
 
 ---
 
-## Contacto
+## 📫 Contacto
 
-📍 Lima, Perú  
-📧 carlosveli77@gmail.com  
-📞 +51 981 489 813  
+📍 Lima, Perú · 📧 carlosveli77@gmail.com
 
 ---
 
-*📦 Todo el código está en mis repositorios. Entrá, mirá, y si te gusta algo, dejale una ⭐*
+⭐ **Revisa mis repositorios, clona, fork — y si te gusta algo, deja una estrella.**
