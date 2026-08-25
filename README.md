@@ -2,7 +2,7 @@
 
 # Hola, soy Carlos Rafael 👋
 
-**Full Stack Developer · Ingeniería de Sistemas, 7mo ciclo · Lima, Perú**
+**Full Stack Developer · Ingeniería de Sistemas, 8vo ciclo · Lima, Perú**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--rafael--vc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-rafael-vc-a155b3333)
 [![Email](https://img.shields.io/badge/Email-carlosveli77@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosveli77@gmail.com)
